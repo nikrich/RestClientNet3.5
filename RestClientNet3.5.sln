@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestClientNet3.5", "RestClientNet3.5.csproj", "{63BD3A21-8D47-453B-8BDD-6546C8369CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63BD3A21-8D47-453B-8BDD-6546C8369CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BD3A21-8D47-453B-8BDD-6546C8369CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BD3A21-8D47-453B-8BDD-6546C8369CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BD3A21-8D47-453B-8BDD-6546C8369CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
